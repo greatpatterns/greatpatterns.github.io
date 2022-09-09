@@ -4,10 +4,10 @@ highlighter:      rouge
 remote_theme: 	  fongandrew/hydeout
 
 # Setup
-title:            Glass of Numbers
-tagline:          'Math Videos'
+title:            Great Patterns
+tagline:          'All About Patterns'
 description:      ''
-url:              https://glassofnumbers.com
+url:              https://greatpatterns.github.io/
 baseurl:          # '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,8 +16,8 @@ baseurl:          # '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Glass of Numbers'
-  url:            https://twitter.com/glassofnumbers
+  name:           'OldCaT'
+  url:            https://greatpatterns.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
