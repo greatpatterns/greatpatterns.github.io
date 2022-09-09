@@ -10,10 +10,10 @@ Here's a list of syntaxes for markdown.
 | Italics         | `_text here_` or `*text here*`                        |
 | Bold            | `__text here__` or `**text here**`                    |
 | **Image**       |                                                       |
-| Image           | `![title](/assets/images/glassofnumbers.png "title")` |
+| Image           | `![title](/assets/images/AAAAA.png "title")` |
 | **Links****     |                                                       |
 | Link (internal) | `[display link](put directory here)`                  |
-| Link (external) | `[displaylink](https://www.glassofnumbers.com)`       |
+| Link (external) | `[displaylink](https://greatpatterns.github.io)`      |
 | **Quote**       |                                                       |
 | Block Quote     | `> put text here`                                     |
 | **Codes**       |                                                       |
