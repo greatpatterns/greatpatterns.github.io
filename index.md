@@ -3,5 +3,5 @@ layout: index
 title: Home
 ---
 
-### Math Drawing Book
-- [Vector Fields](category/math-drawing-book/vector-fields)
+### Math Examples Notebook
+- [Vector Fields](category/math-examples-notebook/vector-fields)
