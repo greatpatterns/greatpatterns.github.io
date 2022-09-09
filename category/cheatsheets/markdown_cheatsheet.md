@@ -13,7 +13,8 @@ Here's a list of syntaxes for markdown.
 | Image           | `![title](/assets/images/AAAAA.png "title")` |
 | **Links****     |                                                       |
 | Link (internal) | `[display link](put directory here)`                  |
-| Link (external) | `[displaylink](https://greatpatterns.github.io)`      |
+| Link (external) | `[displaylink](URL)`						          |
+| Link (new tab)  | `[displaylink](URL){:target="_blank"}`                |
 | **Quote**       |                                                       |
 | Block Quote     | `> put text here`                                     |
 | **Codes**       |                                                       |
