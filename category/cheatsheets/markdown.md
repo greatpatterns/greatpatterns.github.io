@@ -3,7 +3,7 @@ layout: page
 title: Markdown Cheat Sheet
 ---
 
-
+Here's a list of syntaxes for markdown.
 
 | Emphasis        | Syntax                                                |
 | --------------- | ----------------------------------------------------- |
