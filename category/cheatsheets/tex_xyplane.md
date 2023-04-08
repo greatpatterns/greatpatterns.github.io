@@ -3,7 +3,7 @@ layout: page
 title: LaTeX Cheat Sheet: xy-plane
 ---
 
-The following LaTeX codes will generate a 5x5 $xy$-plane:
+The following LaTeX codes will generate a 5x5 $$xy$$-plane:
 
 ```
 \begin{tikzpicture}[scale=0.6]
